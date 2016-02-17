@@ -1,28 +1,45 @@
 <!--
 
-Please click on the contributing link above before opening an issue.
-
-- Have a question about how to usage?
-  - Please ask it on stackoverflow.com.
-  - Issues that are not bug reports or feature discussions will be
-    closed, not because we don't care, but because we do! We need this
-    issue tracker to stay focused on issues and features to provide the
-    best code possible. Please consult the docs and examples in this repo.
-
-- Think you found a bug? Please provide some sort of test case. Bug
-  reports without one will be closed. We need your help!
-  - code we can copy/paste (good)
-  - a small example at http://codepen.io/anon/pen/xwQZdy?editors=001
-    (better)
-  - a pull request with a failing test (BEST!)
-
-- Have a feature request?
-  - Please explain, in terms of your product, what this feature would
-    allow you to do.
-  - Please include code samples of the feature's usage.
-
 Thank you for contributing!
+
+Have a usage question?
+======================
+Please ask it on stackoverflow.com. Questions will be closed without
+comment. Please cosult the tutorial, documentation, and examples:
+
+- https://github.com/reactjs/react-router-tutorial
+- https://github.com/reactjs/react-router/tree/latest/docs
+- https://github.com/reactjs/react-router/tree/latest/examples
+
+
+Think you found a bug?
+======================
+The best thing to do is make a failing test in the repo and send it as a
+pull request so we can see exactly what is wrong and start fixing
+immediately. Otherwise, please use the "BUG REPORT" template below.
+
+
+Have a feature request?
+=======================
+Remove the tempalte from below and provide thoughtful commentary on what
+this feature means for your product. What will it allow you to do that
+you can't do today? How will it make current work-arounds
+straightforward? What potential bugs and edge cases does it help to
+avoid? etc. Please keep it product-centric.
+
+Also, Please include code samples of the feature's usage.
 
 -->
 
+
+<!-- BUG TEMPLATE -->
+## Test Case
+
+http://jsbin.com/sacerobuxi/edit?html,js,output
+
+## Steps to reproduce
+
+## Expected Behavior
+
+## Actual Behavior
 
